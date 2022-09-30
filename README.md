@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Krivosheyev</h1>
-<h3 align="center">Frontend developer from Kazakhstan</h3>
+<h3 align="center">Frontend Developer from Kazakhstan</h3>
 
 - 🌱 I’m currently learning **VueJS, TypeScript**
 
