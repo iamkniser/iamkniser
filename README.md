@@ -6,6 +6,15 @@
 - 📫 How to reach me **https://t.me/Kniser**
 
 <h3 align="left">Connect with me:</h3>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nikita-krivosheyev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://t.me/Kniser">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="TelegramBadge"/>
+  </a>
+</div>
 <p align="left">
 </p>
 
