@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Nikita Krivosheyev</h1>
 <h3 align="left">Frontend Developer from Kazakhstan</h3>
 
-- 🌱 I’m currently learning **VueJS, TypeScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **https://t.me/Kniser**
 
